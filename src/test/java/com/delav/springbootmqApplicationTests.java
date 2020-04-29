@@ -18,7 +18,7 @@ import org.springframework.web.context.WebApplicationContext;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringBootDemoApplicationTests {
+public class springbootmqApplicationTests {
 	
 	@Autowired
 	private WebApplicationContext wac;
