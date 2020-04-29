@@ -1,0 +1,24 @@
+2020-04-29 10:13:33.337 - Starting SpringBootDemoApplication on LAPTOP-AJB6P0ON with PID 7128 (C:\Users\Delav\Desktop\SpringBootDemo\target\classes started by Delav in C:\Users\Delav\Desktop\SpringBootDemo)
+2020-04-29 10:13:33.342 - The following profiles are active: dev
+2020-04-29 10:13:34.854 - Tomcat initialized with port(s): 8080 (http)
+2020-04-29 10:13:34.870 - Starting service [Tomcat]
+2020-04-29 10:13:34.871 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-04-29 10:13:34.965 - Initializing Spring embedded WebApplicationContext
+2020-04-29 10:13:34.966 - Root WebApplicationContext: initialization completed in 1593 ms
+2020-04-29 10:13:35.321 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-29 10:13:35.810 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-29 10:13:35.813 - Started SpringBootDemoApplication in 2.801 seconds (JVM running for 3.585)
+2020-04-29 10:18:27.167 - Application shutdown requested.
+2020-04-29 10:18:27.955 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-29 14:45:40.809 - Starting springbootmqApplication on LAPTOP-AJB6P0ON with PID 7600 (C:\Users\Delav\Desktop\springbootmq\target\classes started by Delav in C:\Users\Delav\Desktop\springbootmq)
+2020-04-29 14:45:40.810 - The following profiles are active: dev
+2020-04-29 14:45:41.659 - Tomcat initialized with port(s): 8080 (http)
+2020-04-29 14:45:41.674 - Starting service [Tomcat]
+2020-04-29 14:45:41.675 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-04-29 14:45:41.764 - Initializing Spring embedded WebApplicationContext
+2020-04-29 14:45:41.764 - Root WebApplicationContext: initialization completed in 927 ms
+2020-04-29 14:45:42.089 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-29 14:45:42.563 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-29 14:45:42.565 - Started springbootmqApplication in 2.028 seconds (JVM running for 2.705)
+2020-04-29 14:46:02.833 - Application shutdown requested.
+2020-04-29 14:46:03.578 - Shutting down ExecutorService 'applicationTaskExecutor'

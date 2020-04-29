@@ -1,0 +1,29 @@
+server:
+  port: 8080
+  
+spring:
+  datasource:
+    username: root
+    password: 729814
+    url: jdbc:mysql://localhost:3306/java?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=UTC
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  resources:
+    static-locations: classpath:/file/
+  activemq:
+    broker-url: tcp://localhost:61616
+    user: admin
+    password: admin
+
+mybatis:
+  mapper-locations: classpath:com/delav/mapper/*Mapper.xml
+  type-aliases-package: com.delav.entity
+  
+logging:
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss.SSS} - %msg%n"
+    file: "%d{yyyy-MM-dd HH:mm:ss.SSS} - %msg%n"     
+  file: log/info.log
+  level:
+    com: 
+      delav: 
+        info
